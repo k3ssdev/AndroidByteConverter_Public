@@ -59,4 +59,4 @@ A modo de ayuda, aquí está la tabla de conversión entre las diferentes unidad
 
 ## Licencia
 
-Este proyecto está bajo la Licencia [MIT LICENSE](License). Consulta el archivo LICENSE.md para obtener más detalles.
+Este proyecto está bajo la Licencia [MIT LICENSE](LICENSE). Consulta el archivo LICENSE.md para obtener más detalles.
