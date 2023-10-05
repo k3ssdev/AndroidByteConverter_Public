@@ -8,5 +8,5 @@
     <string name="numero2">Número salida</string>
     <string name="glider_hacker_emblem">Glider, hacker emblem</string>
     <string name="img">glider, hacker emblem</string>
-    <string name="license">[MIT License] Alberto Pérez del Río</string>
+    <string name="license">Alberto Pérez del Río</string>
 </resources>
