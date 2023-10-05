@@ -138,6 +138,7 @@
         android:inputType=""
         android:minHeight="48dp"
         android:textAlignment="center"
+        android:textColor = "?android:textColorPrimary"
         android:textColorHint="#8D6E63"
         app:layout_constraintBottom_toTopOf="@+id/guideline4"
         app:layout_constraintEnd_toEndOf="parent"
