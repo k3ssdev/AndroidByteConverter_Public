@@ -1,6 +1,6 @@
 # Android Byte Converter
 
-Este repositorio contiene el código fuente de una aplicación Android desarrollada como parte del ejercicio para la asignatura de Programación multimedia y dispositivos móviles del ciclo de DAM. La aplicación, denominada "Android Byte Conversor", permite a los usuarios realizar conversiones entre las diferentes unidades de medida de la escala del byte.
+Este repositorio contiene el código fuente de una aplicación Android desarrollada como parte del ejercicio para la asignatura de Programación multimedia y dispositivos móviles del ciclo de DAM. La aplicación, denominada "Android Byte Converter", permite a los usuarios realizar conversiones entre las diferentes unidades de medida de la escala del byte.
 
 ## Funcionalidad
 
