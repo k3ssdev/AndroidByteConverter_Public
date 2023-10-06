@@ -27,6 +27,7 @@ El diseño de la interfaz de usuario sigue las siguientes directrices:
 
    
 ![ByteConverterAPR - Vertical](ByteConverterAPR_v.0.1.6.png)  
+<img src="ByteConverterAPR_v.0.1.6.png" width="200" height="100">
 
 
 - **Layout Horizontal (personalizable):**
