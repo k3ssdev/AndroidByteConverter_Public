@@ -25,10 +25,10 @@ El diseño de la interfaz de usuario sigue las siguientes directrices:
   - El resultado ocupa el 20% de la pantalla en vertical.
   - El resto de la pantalla está ocupado por una imagen.
 
-   
-![ByteConverterAPR - Vertical](ByteConverterAPR_v.0.1.6.png){ height="600" style="display: block; margin: 0 auto" }
-
-
+<img src="ByteConverterAPR_v.0.1.6.png" 
+        alt="Picture" 
+        height="600" 
+        style="  margin-left: auto;margin-right: auto" />
 
 - **Layout Horizontal (personalizable):**
   - Se proporciona un segundo archivo XML para el diseño horizontal.
