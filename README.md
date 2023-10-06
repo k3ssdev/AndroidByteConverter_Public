@@ -26,8 +26,8 @@ El diseño de la interfaz de usuario sigue las siguientes directrices:
   - El resto de la pantalla está ocupado por una imagen.
 
    
-![ByteConverterAPR - Vertical](ByteConverterAPR_v.0.1.6.png)  
-<img src="ByteConverterAPR_v.0.1.6.png" width="200" height="100">
+![ByteConverterAPR - Vertical](ByteConverterAPR_v.0.1.6.png){ height="600" style="display: block; margin: 0 auto" }
+
 
 
 - **Layout Horizontal (personalizable):**
@@ -35,7 +35,7 @@ El diseño de la interfaz de usuario sigue las siguientes directrices:
   - El diseño horizontal es libre y puede personalizarse según las preferencias del usuario.
 
  
-![ByteConverter - Horizontal](ByteConverterAPR_v.0.1.6_land.png)  
+![ByteConverter - Horizontal](ByteConverterAPR_v.0.1.6_land.png){ width="600" style="display: block; margin: 0 auto" }
 
 
 ## Controles
