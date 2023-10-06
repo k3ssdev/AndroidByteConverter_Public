@@ -122,7 +122,7 @@
         android:inputType="number"
         android:minHeight="48dp"
         android:textAlignment="center"
-        android:textColor = "?android:textColorPrimary"
+        android:textColor="?android:textColorPrimary"
         android:textColorHint="#8D6E63"
         app:layout_constraintBottom_toTopOf="@+id/guideline4"
         app:layout_constraintEnd_toStartOf="@+id/imageView"
@@ -141,12 +141,10 @@
         android:textAlignment="center"
         android:textColorHint="#8D6E63"
         app:layout_constraintBottom_toTopOf="@+id/guideline3"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/imageView"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/textView"
         app:layout_constraintTop_toTopOf="@+id/guideline2"
-        app:layout_constraintVertical_bias="0.5"
         tools:ignore="TouchTargetSizeCheck" />
 
     <TextView
@@ -171,7 +169,7 @@
         android:textSize="16sp"
         app:layout_constraintBottom_toTopOf="@+id/guideline4"
         app:layout_constraintEnd_toStartOf="@+id/editTextNumber2"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/guideline3" />
 
